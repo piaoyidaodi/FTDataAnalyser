@@ -1,0 +1,16 @@
+.nologin{
+	-fx-text-fill:blue;
+	-fx-fill:blue;
+}
+
+.nologin:hover{
+	-fx-underline:true;
+}
+
+.decorate-icon{
+	
+}
+
+.decorate-icon:hover{
+	-fx-fill:#808080;
+}
